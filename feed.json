@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "LHLC",
+    "description": "",
+    "home_page_url": "https://cortinarius-i.github.io/LHLC",
+    "feed_url": "https://cortinarius-i.github.io/LHLC/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Gowri Ramesh"
+    },
+    "items": [
+    ]
+}
